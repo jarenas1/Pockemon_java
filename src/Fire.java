@@ -1,6 +1,6 @@
 public interface Fire {
 
-    public void tacarPunioFuego();
+    public void atacarPunioFuego();
     public void atacarAscuas();
     public void atacarLanzallamas();
 }
